@@ -1,6 +1,24 @@
-## Welcome to GitHub Pages
+## Data | Healthcare | Strategy | Operations
 
-You can use the [editor on GitHub](https://github.com/ekfuller/ekfuller.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Intro 
+
+<Brand Statement>
+  
+Selected Projects
+- [Predicting Viral Food Trends](https://github.com/ekfuller/food_trends)
+- [Oil Refinery Location and Cancer Rates in Texas](https://github.com/ekfuller/DSI-group_project)
+- Text Classification
+  
+Experience
+- Alma
+- Oscar
+- Infosys
+  
+Education
+- GA
+- Brown University
+  
+  You can use the [editor on GitHub](https://github.com/ekfuller/ekfuller.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
