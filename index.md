@@ -10,8 +10,11 @@ Hi, I'm Emily. I'm driven to leverage the power of data to draw insights that le
   
 ### Experience
 - Alma
+  - Operations Manager - Provider Credentialing
 - Oscar
+  - Insuance Operations 
 - Infosys
+  - Business Analyst - Consulting
   
 ### Education
 - General Assembly Data Science Immersive 
